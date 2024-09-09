@@ -5,7 +5,24 @@
 }
 
 body {
+  font-family: "Alice", serif;
+  line-height: 150%;
   background-color: #573824;
+  color: #573A37;
+}
+
+h1, h2 {
+  font-weight: normal;
+  color: #291B1A;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 140%;
+}
+
+h2 {
+  line-height: 150%;
 }
 
 #page {
@@ -18,4 +35,8 @@ body {
 
 header img {
   width: 100%;
+}
+
+footer {
+  color: #F0E8C2;
 }
