@@ -12,6 +12,7 @@ body {
 }
 
 h1, h2 {
+  margin-top: 24px;
   font-weight: normal;
   color: #291B1A;
 }
@@ -37,6 +38,24 @@ header img {
   width: 100%;
 }
 
+header div {
+  margin: 0 24px;
+}
+
+main {
+  padding: 0 24px 24px 24px;
+}
+
+ul {
+  margin-left: 24px;
+}
+
 footer {
+  margin: 28px 0 48px;
+  text-align: center;
   color: #F0E8C2;
+}
+
+footer img {
+  vertical-align: middle;
 }
